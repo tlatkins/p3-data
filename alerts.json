@@ -1,8 +1,8 @@
 [
   {
     "title": "Upgrade to 1.0",
-    "description": "It's a good time to upgrade to 
-    "icon": "iphone.gen1.badge.exclamationmark"
+    "description": "It's a good time to upgrade to the generally available release",
+    "icon": "iphone.gen1.badge.exclamationmark",
     "push": true
   }
 ]
