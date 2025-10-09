@@ -1,8 +1,8 @@
 [
   {
+    "id": 1
     "title": "Upgrade to 1.0",
-    "description": "It's a good time to upgrade to the generally available release",
+    "message": "It's a good time to upgrade to the generally available release",
     "icon": "iphone.gen1.badge.exclamationmark",
-    "push": true
   }
 ]
